@@ -1,6 +1,7 @@
 #
-# WR9R Auto Band Switch Manager
-# Designed to work with KAT500/KAP500 power Trio and WR9R Antenna Selector
+# WR9R Auto Band Switch Manager  -- ELECRAFT K3 VERSION -- SUPPORTS 'TUNE AFTER BAND CHANGE'
+#                                   to allow remote antenna tuners to realign
+# Designed to work with KAT500/KAP500 power combo and WR9R Antenna Selector
 # This will automatically select the antenna based on band selected
 # in the N3FJP Logging Softwaare
 # 04-04-2024   Larry D O'Cull    WR9R
